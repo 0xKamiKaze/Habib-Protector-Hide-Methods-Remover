@@ -1,1 +1,5 @@
-``A hide methods remover for habib extreme protector``
+# Habib-Protector-Hide-Methods-Remover
+**Before**
+![](https://i.ibb.co/nfdYHWW/Capture.png)
+**After**
+![](https://i.ibb.co/VWGYhvt/image.png)
